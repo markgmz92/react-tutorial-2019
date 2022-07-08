@@ -11,15 +11,18 @@ export const FeedbackProvider = ({ children }) => {
     },
     {
       id: 2,
-      text: 'This is feedback item 2.'
+      text: 'This is feedback item 2.',
+      rating: 9
     },
     {
       id: 3,
-      text: 'This is feedback item 3.'
+      text: 'This is feedback item 3.',
+      rating: 8
     },
     {
       id: 4,
-      text: 'This is feedback item 4'
+      text: 'This is feedback item 4',
+      rating: 6
     }
   ]);
 
